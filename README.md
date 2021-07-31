@@ -1,4 +1,4 @@
-# ezy
+# ezyschooling-blog-assignment
 
 ## Project setup
 ```
